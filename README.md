@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Im Rahee ds
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning models.<br>👯 I’m looking to collaborate in data analytics, business analytics field.<br>🌱 I’m currently learning Tableau, Power BI, SAS.<br>💬 Ask me about python, SQL, Excel, R programming.<br>⚡ Reach me through raheesutrave@gmail.com
 
